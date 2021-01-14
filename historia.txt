@@ -1,3 +1,2 @@
-Primer archivo 
-con su primera modificacion
-y su segunda modificacion nuevamnete y otra vez
+Primer archivo regresa con checkout 
+y modificado
